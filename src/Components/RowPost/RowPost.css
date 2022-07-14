@@ -20,7 +20,7 @@
 .poster{
     border-radius: 5px;
     cursor: pointer;
-    max-height: 250px;
+    max-height: 300px;
     margin-right: 10px;
     transition: transform 200ms;
   
@@ -30,7 +30,7 @@
 .smallPoster{
     border-radius: 5px;
     cursor: pointer;
-    max-height: 150px;
+    max-height: 200px;
     margin-right: 10px;
     transition: transform 200ms;
   

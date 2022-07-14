@@ -29,3 +29,19 @@
     right: 30px;
     width: 30px;
 }
+
+.right__nav {
+    padding-top: 1px;
+    display: flex;
+    padding-left: 150px;
+}
+
+.right__nav nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.right__nav nav ul li{
+    list-style: none;
+}
