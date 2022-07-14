@@ -21,8 +21,8 @@ function Banner() {
         <div className='content'>
             <h1 className='title'>{movie ? movie.name || movie.title : " "}</h1>
             <div className='banner_buttons'>
-                <button className='button'><i class="fa fa-play"></i>&nbsp;Play</button>
-                <button className='button'><i class="fa fa-info-circle"></i>&nbsp;More info</button>
+                <button className='button'>Play</button>
+                <button className='button'>More info</button>
 
             </div>
             <h1 className='description'>{movie ? movie.overview : ""}</h1>
